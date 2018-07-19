@@ -1,0 +1,19 @@
+{
+  "name": "myfirstgit",
+  "version": "1.0.0",
+  "description": "For Web Programming Week 2",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeGoymerStudent/myFirstGit.git"
+  },
+  "author": "Lee Goymer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeGoymerStudent/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/LeeGoymerStudent/myFirstGit#readme"
+}
