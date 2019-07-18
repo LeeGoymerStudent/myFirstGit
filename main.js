@@ -1,4 +1,6 @@
- -// Update: Now in 2019
-console.log("I caused a merge conflict.");
+// Update: Now in 2019
 
-//Update By Cameron - Breaking code added "I caused a merge conflict."  to log
+var adder = (a,b) => {return a+b;};
+
+console.log("I caused a merge conflict.");
+console.log(adder(5,10));
