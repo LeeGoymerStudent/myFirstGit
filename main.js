@@ -2,5 +2,5 @@
 
 var adder = (a,b) => {return a+b;};
 
-console.log("Hello World");
+console.log("I caused a merge conflict.");
 console.log(adder(5,10));
